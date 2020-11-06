@@ -1,0 +1,64 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+  
+    
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+
+    
+}
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+/*=========Menu start===============*/
+.stellarnav.dark.mobile {
+	text-align: right !important;
+}
+    
+.themelab-theme-menu ul li {
+	margin-right: 4px !important;
+	padding: 6px 11px !important;
+	font-size: 16px !important;
+	margin-bottom: 12px !important;
+}
+ 
+    
+.box {
+	width: 100% !important;
+}
+    
+    
+.box .about-content {
+	top: 52% !important;
+	left: -9px !important;
+	padding: 0 21px !important;
+	font-size: 15px !important;
+	
+} 
+    
+.text {
+	top: 30px !important;
+	left: -8px !important;
+	width: calc(89% + 51px) !important;
+	height: calc(101% - 65px) !important;
+
+}
+  
+    
+.themelab-speech-title h2 {
+	font-size: 18px !important;
+	margin-top: 14px !important;
+}
+    
+
+}
+
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+    
+
+    
+    
+}
